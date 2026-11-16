@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Dashboard.Client/Dashboard.Client.csproj" />
+    <Project Path="src/Monitor.Worker/Monitor.Worker.csproj" />
+    <Project Path="src/Notification.Service/Notification.Service.csproj" />
+    <Project Path="src/Sensor.Api/Sensor.Api.csproj" />
+    <Project Path="src/Sensor.Simulator/Sensor.Simulator.csproj" />
+    <Project Path="src/Shared.Contracts/Shared.Contracts.csproj" />
+  </Folder>
+</Solution>
