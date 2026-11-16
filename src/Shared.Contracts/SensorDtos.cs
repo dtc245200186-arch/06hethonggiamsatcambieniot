@@ -31,3 +31,5 @@ public record SensorReadingDto(
     bool IsAlert,
     string? AlertMessage
 );
+
+public record ApiError(string Code, string Message);
